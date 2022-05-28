@@ -1,5 +1,4 @@
-Hello
-I'm Stolyarov Maksim Aleksandrovich
-I'm thirthy two years old
-I have no pets
-I want to take all the World's money!
+var UserName = "Stolyarov Maksim";
+var UserAge = 32;
+var Pets = "No one";
+var Salary = "$9999999999999999999999999999999999999";
