@@ -1,6 +1,9 @@
-var My_Favorit = new Map();
-My_Favorit.set ("Movie", "Pulp Fiction").set ("Series", "Silicon Valley").set ("Dish", "Carpaccio").set("Season", "Summer").set("Country to travel", "Japan");
-
-for (var [key, value] of My_Favorit) {
-  console.log(key + " it's " + value);
-};
+{
+	"My_Favorit":{
+		"Movie":"Pulp Fiction",
+		"Series":"Silicon Valley",
+		"Dish":"Carpaccio",
+		"Season":"Summer",
+		"Country to travel":"Japan"
+		},
+}

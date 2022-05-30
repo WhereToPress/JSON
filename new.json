@@ -1,4 +1,8 @@
-var UserName = "Stolyarov Maksim";
-var UserAge = 32;
-var Pets = "No one";
-var Salary = "$9999999999999999999999999999999999999";
+{
+	"person":{
+		"name":"Maksim",
+		"age":32,
+		"pets":null,
+		"salary":"$9999999999999999999999999999999999999"
+		},
+}
